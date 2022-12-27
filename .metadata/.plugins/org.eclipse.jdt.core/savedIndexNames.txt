@@ -1,0 +1,4 @@
+INDEX VERSION 1.131+C:\Users\승학산-16\Desktop\새 폴더\.metadata\.plugins\org.eclipse.jdt.core
+1865797976.index
+3939699067.index
+384783212.index
